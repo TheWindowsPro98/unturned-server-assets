@@ -1,2 +1,3 @@
-# unturned-server-assets
-Assets for my Unturned server
+# Unturned Server Assets
+
+Just some images pertaining to my Unturned server.
